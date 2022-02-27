@@ -1,0 +1,5 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/mario/project/v-boy'
+v -enable-globals run main.v
+make: Leaving directory '/home/mario/project/v-boy'
+ 
